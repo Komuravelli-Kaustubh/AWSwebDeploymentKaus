@@ -1,0 +1,3772 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 841.8899999999999864 595.2799999999999727]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 7972
+>>
+stream
+0.5670000000000001 w
+0 G
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+40. 532.9177952755904926 22.677165354330711 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 519.4177952755904926 Td
+(#) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+62.6771653543307039 532.9177952755904926 141.7322834645669332 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+67.677165354330711 519.4177952755904926 Td
+(Question) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+204.4094488188976584 532.9177952755904926 226.7716535433071101 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+209.4094488188976584 519.4177952755904926 Td
+(Student Answer) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+431.1811023622047969 532.9177952755904926 150.236220472440948 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+436.1811023622047969 519.4177952755904926 Td
+(Evaluation Feedback 1) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+581.4173228346456881 532.9177952755904926 150.236220472440948 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+586.4173228346456881 519.4177952755904926 Td
+(Evaluation Feedback 2) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+731.6535433070865793 532.9177952755904926 70.8661417322834666 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+736.6535433070866929 519.4177952755904926 Td
+(Avg Score) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 511.4177952755904926 22.677165354330711 -285.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 497.9177952755904926 Td
+(1) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+62.6771653543307039 511.4177952755904926 141.7322834645669332 -285.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+67.677165354330711 497.9177952755904926 Td
+(How can you ensure data) Tj
+T* (integrity while performing) Tj
+T* (normalization on an existing) Tj
+T* (database?) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+204.4094488188976584 511.4177952755904926 226.7716535433071101 -285.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+209.4094488188976584 497.9177952755904926 Td
+(data integrity in a DBMS data piece refers to that) Tj
+T* (the fields or the columns in the table follow the) Tj
+T* (particular criteria or the rules established so that) Tj
+T* (the integrity and consistency of the data is) Tj
+T* (maintained this can be different constraints) Tj
+T* (based upon check unique not null did oh and and) Tj
+T* (normalization we have different forms of normal) Tj
+T* (form where all the components have to be) Tj
+T* (dependent upon the primary component either) Tj
+T* (transitively or directly) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+431.1811023622047969 511.4177952755904926 150.236220472440948 -285.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+436.1811023622047969 497.9177952755904926 Td
+(The response attempts to) Tj
+T* (explain data integrity and) Tj
+T* (normalization but lacks clarity) Tj
+T* (and coherence. There are) Tj
+T* (some inaccuracies in the) Tj
+T* (technical details, and the) Tj
+T* (connection between data) Tj
+T* (integrity and normalization is) Tj
+T* (not clearly articulated.) Tj
+T* () Tj
+T* (Score: 2) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+581.4173228346456881 511.4177952755904926 150.236220472440948 -285.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+586.4173228346456881 497.9177952755904926 Td
+(The user's response shows a) Tj
+T* (good understanding of data) Tj
+T* (integrity and normalization) Tj
+T* (concepts. They accurately) Tj
+T* (define data integrity as) Tj
+T* (maintaining the consistency) Tj
+T* (and integrity of data in a) Tj
+T* (database, and mention specific) Tj
+T* (constraints such as check,) Tj
+T* (unique, not null, and different) Tj
+T* (forms of normal form \(e.g., first,) Tj
+T* (second, third\). The only areas) Tj
+T* (for improvement are that the) Tj
+T* (response could be more) Tj
+T* (concise and focused on the) Tj
+T* (question, and that it does not) Tj
+T* (explicitly explain how to ensure) Tj
+T* (data integrity while performing) Tj
+T* (normalization. Nevertheless,) Tj
+T* (the user demonstrates a solid) Tj
+T* (grasp of underlying database) Tj
+T* (concepts.) Tj
+T* () Tj
+T* (Score: 8) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+731.6535433070865793 511.4177952755904926 70.8661417322834666 -285.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+736.6535433070866929 497.9177952755904926 Td
+(6) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 225.4177952755905494 22.677165354330711 -182.4999999999999716 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 211.9177952755906063 Td
+(2) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+62.6771653543307039 225.4177952755905494 141.7322834645669332 -182.4999999999999716 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+67.677165354330711 211.9177952755906063 Td
+(What are some common) Tj
+T* (denormalization techniques) Tj
+T* (used in database design?) Tj
+T* (How can these techniques be) Tj
+T* (applied to improve the) Tj
+T* (performance of specific types) Tj
+T* (of queries?) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+204.4094488188976584 225.4177952755905494 226.7716535433071101 -182.4999999999999716 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+209.4094488188976584 211.9177952755906063 Td
+(There are various types of denormalization that) Tj
+T* (can be, you know, decomposition of a table, a) Tj
+T* (lossy decomposition and a lossless) Tj
+T* (decomposition of a table. These techniques help) Tj
+T* (to strike a balance between performance and) Tj
+T* (redundancy so that we can add more) Tj
+T* (redundancies for the better performance or) Tj
+T* (completion of specific type of queries. The level) Tj
+T* (of decomposition or the level of denormalization) Tj
+T* (is dependent upon the type of query being made.) Tj
+T* (The basic idea is to improve the performance so) Tj
+T* (that we can solve the query.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+431.1811023622047969 225.4177952755905494 150.236220472440948 -182.4999999999999716 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+436.1811023622047969 211.9177952755906063 Td
+(The response covers some) Tj
+T* (common denormalization) Tj
+T* (techniques like decomposition,) Tj
+T* (but lacks specific examples and) Tj
+T* (details on how these) Tj
+T* (techniques are applied to) Tj
+T* (improve query performance. It) Tj
+T* (shows a basic understanding of) Tj
+T* (the concept but could benefit) Tj
+T* (from more depth and clarity.) Tj
+T* () Tj
+T* (Score: 5) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+581.4173228346456881 225.4177952755905494 150.236220472440948 -182.4999999999999716 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+586.4173228346456881 211.9177952755906063 Td
+(The user's response shows a) Tj
+T* (good understanding of) Tj
+T* (denormalization techniques and) Tj
+T* (their applications. They) Tj
+T* (correctly mention lossy and) Tj
+T* (lossless decomposition as) Tj
+T* (common types of) Tj
+T* (denormalization. The) Tj
+T* (explanation also highlights the) Tj
+T* (trade-off between performance) Tj
+T* (and redundancy, which is a key) Tj
+T* (aspect of denormalization.) Tj
+T* (However, the answer could be) Tj
+T* (more detailed and specific) Tj
+T* (about how these techniques) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+731.6535433070865793 225.4177952755905494 70.8661417322834666 -182.4999999999999716 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+736.6535433070866929 211.9177952755906063 Td
+(7) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+BT
+/F9 12 Tf
+13.7999999999999989 TL
+0. g
+62.3622047244094517 566.933543307086552 Td
+(Schedule: Elite Interview 29th April 2024-KMIT) Tj
+ET
+BT
+/F9 12 Tf
+13.7999999999999989 TL
+0. g
+716.4077952755905017 566.933543307086552 Td
+(Avg Score: 7) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 28.3464566929134207 Td
+(Prashn Manch) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+318.6111417322834996 28.3464566929134207 Td
+(Interview taken on: 4/29/2024, 5:25:07 PM) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+720.0364566929133616 28.3464566929134207 Td
+(Page 1 of 10) Tj
+ET
+0.78 G
+0. w
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 841.8899999999999864 595.2799999999999727]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 7216
+>>
+stream
+0. w
+0.78 G
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+40. 566.933543307086552 22.677165354330711 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 553.433543307086552 Td
+(#) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+62.6771653543307039 566.933543307086552 141.7322834645669332 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+67.677165354330711 553.433543307086552 Td
+(Question) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+204.4094488188976584 566.933543307086552 226.7716535433071101 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+209.4094488188976584 553.433543307086552 Td
+(Student Answer) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+431.1811023622047969 566.933543307086552 150.236220472440948 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+436.1811023622047969 553.433543307086552 Td
+(Evaluation Feedback 1) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+581.4173228346456881 566.933543307086552 150.236220472440948 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+586.4173228346456881 553.433543307086552 Td
+(Evaluation Feedback 2) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+731.6535433070865793 566.933543307086552 70.8661417322834666 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+736.6535433070866929 553.433543307086552 Td
+(Avg Score) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 545.433543307086552 22.677165354330711 -205.4999999999999432 re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+62.6771653543307039 545.433543307086552 141.7322834645669332 -205.4999999999999432 re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+204.4094488188976584 545.433543307086552 226.7716535433071101 -205.4999999999999432 re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+431.1811023622047969 545.433543307086552 150.236220472440948 -205.4999999999999432 re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+581.4173228346456881 545.433543307086552 150.236220472440948 -205.4999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+586.4173228346456881 531.933543307086552 Td
+(can improve query performance) Tj
+T* (for different types of queries) Tj
+T* (\(e.g., aggregate queries, joins\).) Tj
+T* (Additionally, some technical) Tj
+T* (terms, such as 'decomposition') Tj
+T* (and 'lossy decomposition', are) Tj
+T* (used without further) Tj
+T* (clarification, which might make) Tj
+T* (it harder to understand for) Tj
+T* (someone without prior) Tj
+T* (knowledge. Overall, the) Tj
+T* (response demonstrates a solid) Tj
+T* (understanding of) Tj
+T* (denormalization concepts and) Tj
+T* (their implications.) Tj
+T* () Tj
+T* (Score: 8) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+731.6535433070865793 545.433543307086552 70.8661417322834666 -205.4999999999999432 re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 339.9335433070866088 22.677165354330711 -263. re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 326.4335433070866657 Td
+(3) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+62.6771653543307039 339.9335433070866088 141.7322834645669332 -263. re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+67.677165354330711 326.4335433070866657 Td
+(How does denormalization) Tj
+T* (affect the complexity of) Tj
+T* (maintaining a database) Tj
+T* (schema?) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+204.4094488188976584 339.9335433070866088 226.7716535433071101 -263. re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+209.4094488188976584 326.4335433070866657 Td
+(The complexity of a database schema in terms of) Tj
+T* (redundancy is increased because of) Tj
+T* (denormalization since redundant data is being) Tj
+T* (added for better performance. The complexity of) Tj
+T* (the database in terms of redundancy sure) Tj
+T* (increases but for readability it is quite easy but) Tj
+T* (maintenance is hard.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+431.1811023622047969 339.9335433070866088 150.236220472440948 -263. re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+436.1811023622047969 326.4335433070866657 Td
+(The response demonstrates a) Tj
+T* (clear understanding of how) Tj
+T* (denormalization impacts) Tj
+T* (database schema complexity) Tj
+T* (by explaining the increase in) Tj
+T* (redundancy for performance) Tj
+T* (benefits. The mention of ease) Tj
+T* (in readability but difficulty in) Tj
+T* (maintenance also shows a) Tj
+T* (good grasp of the concept.) Tj
+T* () Tj
+T* (Score: 8) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+581.4173228346456881 339.9335433070866088 150.236220472440948 -263. re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+586.4173228346456881 326.4335433070866657 Td
+(The user's response) Tj
+T* (demonstrates a good) Tj
+T* (understanding of) Tj
+T* (denormalization and its effects) Tj
+T* (on database schema) Tj
+T* (complexity. They correctly) Tj
+T* (identify that redundancy is) Tj
+T* (increased due to) Tj
+T* (denormalization for the purpose) Tj
+T* (of better performance. The) Tj
+T* (mention of readability being) Tj
+T* ('quite easy' suggests an) Tj
+T* (appreciation for the trade-offs) Tj
+T* (involved in denormalization.) Tj
+T* (However, the response could) Tj
+T* (be improved by providing more) Tj
+T* (detail about what makes) Tj
+T* (maintenance harder and how it) Tj
+T* (affects overall database) Tj
+T* (schema complexity.) Tj
+T* () Tj
+T* (Score: 7) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+731.6535433070865793 339.9335433070866088 70.8661417322834666 -263. re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+736.6535433070866929 326.4335433070866657 Td
+(8) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 76.9335433070866515 22.677165354330711 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 63.4335433070866657 Td
+(4) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+62.6771653543307039 76.9335433070866515 141.7322834645669332 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+67.677165354330711 63.4335433070866657 Td
+(What is the purpose of the) Tj
+T* (volatile keyword in Java?) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+204.4094488188976584 76.9335433070866515 226.7716535433071101 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+209.4094488188976584 63.4335433070866657 Td
+(There are different types of access methods in) Tj
+T* (Java. Public, private, static, final, protected and) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+431.1811023622047969 76.9335433070866515 150.236220472440948 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+436.1811023622047969 63.4335433070866657 Td
+(The response mixes up the) Tj
+T* (concept of the volatile keyword) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+581.4173228346456881 76.9335433070866515 150.236220472440948 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+586.4173228346456881 63.4335433070866657 Td
+(The user's response partially) Tj
+T* (addresses the question by) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+731.6535433070865793 76.9335433070866515 70.8661417322834666 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+736.6535433070866929 63.4335433070866657 Td
+(3) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 28.3464566929134207 Td
+(Prashn Manch) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+318.6111417322834996 28.3464566929134207 Td
+(Interview taken on: 4/29/2024, 5:25:07 PM) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+720.0364566929133616 28.3464566929134207 Td
+(Page 2 of 10) Tj
+ET
+0.78 G
+0. w
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 841.8899999999999864 595.2799999999999727]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 6955
+>>
+stream
+0. w
+0.78 G
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+40. 566.933543307086552 22.677165354330711 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 553.433543307086552 Td
+(#) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+62.6771653543307039 566.933543307086552 141.7322834645669332 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+67.677165354330711 553.433543307086552 Td
+(Question) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+204.4094488188976584 566.933543307086552 226.7716535433071101 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+209.4094488188976584 553.433543307086552 Td
+(Student Answer) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+431.1811023622047969 566.933543307086552 150.236220472440948 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+436.1811023622047969 553.433543307086552 Td
+(Evaluation Feedback 1) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+581.4173228346456881 566.933543307086552 150.236220472440948 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+586.4173228346456881 553.433543307086552 Td
+(Evaluation Feedback 2) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+731.6535433070865793 566.933543307086552 70.8661417322834666 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+736.6535433070866929 553.433543307086552 Td
+(Avg Score) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 545.433543307086552 22.677165354330711 -170.9999999999999716 re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+62.6771653543307039 545.433543307086552 141.7322834645669332 -170.9999999999999716 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+67.677165354330711 531.933543307086552 Td
+(How does it affect variable) Tj
+T* (access and visibility?) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+204.4094488188976584 545.433543307086552 226.7716535433071101 -170.9999999999999716 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+209.4094488188976584 531.933543307086552 Td
+(so is volatile keyword used in Java which means) Tj
+T* (it can be used once. The access for this changes) Tj
+T* (only once and multiple time access will not) Tj
+T* (render or change the value of the variable.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+431.1811023622047969 545.433543307086552 150.236220472440948 -170.9999999999999716 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+436.1811023622047969 531.933543307086552 Td
+(with other access modifiers in) Tj
+T* (Java. It lacks a clear) Tj
+T* (explanation of the purpose of) Tj
+T* (the volatile keyword and how it) Tj
+T* (affects variable access and) Tj
+T* (visibility.) Tj
+T* () Tj
+T* (Score: 2) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+581.4173228346456881 545.433543307086552 150.236220472440948 -170.9999999999999716 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+586.4173228346456881 531.933543307086552 Td
+(mentioning that volatile is a) Tj
+T* (type of access modifier.) Tj
+T* (However, it fails to provide a) Tj
+T* (clear explanation of its purpose) Tj
+T* (and impact on variable access) Tj
+T* (and visibility. The statement) Tj
+T* (about multiple accesses not) Tj
+T* (changing the value is irrelevant) Tj
+T* (as volatile keyword in Java is) Tj
+T* (used for multi-threading) Tj
+T* (purposes, ensuring memory) Tj
+T* (consistency between threads.) Tj
+T* () Tj
+T* (Score: 2) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+731.6535433070865793 545.433543307086552 70.8661417322834666 -170.9999999999999716 re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 374.4335433070866088 22.677165354330711 -331.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 360.9335433070866088 Td
+(5) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+62.6771653543307039 374.4335433070866088 141.7322834645669332 -331.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+67.677165354330711 360.9335433070866088 Td
+(What is the difference) Tj
+T* (between object reference) Tj
+T* (variables and primitive) Tj
+T* (variables?) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+204.4094488188976584 374.4335433070866088 226.7716535433071101 -331.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+209.4094488188976584 360.9335433070866088 Td
+(primitive variables in Java are in double boolean) Tj
+T* (but the object reference variables are integer) Tj
+T* (capital I double capital T boolean capital P these) Tj
+T* (are wrapper classes are this referred to a) Tj
+T* (particular instance and primitive variables they) Tj
+T* (only refer to the data type the object references) Tj
+T* (create an integer double or boolean object) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+431.1811023622047969 374.4335433070866088 150.236220472440948 -331.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+436.1811023622047969 360.9335433070866088 Td
+(The response attempts to) Tj
+T* (differentiate between object) Tj
+T* (reference variables and) Tj
+T* (primitive variables, but it lacks) Tj
+T* (clarity and accuracy in its) Tj
+T* (explanation. The language used) Tj
+T* (is not precise, and some) Tj
+T* (statements are incorrect, like) Tj
+T* (mentioning primitive variables) Tj
+T* (being in double and boolean.) Tj
+T* (The response needs) Tj
+T* (improvement in providing a) Tj
+T* (clear and accurate distinction.) Tj
+T* () Tj
+T* (Score: 2) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+581.4173228346456881 374.4335433070866088 150.236220472440948 -331.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+586.4173228346456881 360.9335433070866088 Td
+(The user's response shows a) Tj
+T* (good understanding of the) Tj
+T* (difference between primitive) Tj
+T* (and object reference variables) Tj
+T* (in Java. They correctly mention) Tj
+T* (that primitive variables are) Tj
+T* (single values \(e.g., double,) Tj
+T* (boolean\) whereas object) Tj
+T* (reference variables refer to) Tj
+T* (instances of wrapper classes.) Tj
+T* (The user also provides) Tj
+T* (examples of these wrapper) Tj
+T* (classes, which is a good effort.) Tj
+T* (However, their explanation) Tj
+T* (could be more concise and) Tj
+T* (accurate. For instance, they) Tj
+T* (incorrectly state that primitive) Tj
+T* (variables can be 'double) Tj
+T* (boolean' or 'boolean capital P',) Tj
+T* (when in fact, primitive variables) Tj
+T* (are single values like double or) Tj
+T* (boolean. Additionally, the user's) Tj
+T* (response lacks proper) Tj
+T* (formatting and grammar,) Tj
+T* (making it harder to follow.) Tj
+T* (Overall, the user demonstrates) Tj
+T* (a good grasp of the concept but) Tj
+T* (could improve their explanation) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+731.6535433070865793 374.4335433070866088 70.8661417322834666 -331.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+736.6535433070866929 360.9335433070866088 Td
+(5) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 28.3464566929134207 Td
+(Prashn Manch) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+318.6111417322834996 28.3464566929134207 Td
+(Interview taken on: 4/29/2024, 5:25:07 PM) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+720.0364566929133616 28.3464566929134207 Td
+(Page 3 of 10) Tj
+ET
+0.78 G
+0. w
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 841.8899999999999864 595.2799999999999727]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 8509
+>>
+stream
+0. w
+0.78 G
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+40. 566.933543307086552 22.677165354330711 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 553.433543307086552 Td
+(#) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+62.6771653543307039 566.933543307086552 141.7322834645669332 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+67.677165354330711 553.433543307086552 Td
+(Question) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+204.4094488188976584 566.933543307086552 226.7716535433071101 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+209.4094488188976584 553.433543307086552 Td
+(Student Answer) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+431.1811023622047969 566.933543307086552 150.236220472440948 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+436.1811023622047969 553.433543307086552 Td
+(Evaluation Feedback 1) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+581.4173228346456881 566.933543307086552 150.236220472440948 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+586.4173228346456881 553.433543307086552 Td
+(Evaluation Feedback 2) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+731.6535433070865793 566.933543307086552 70.8661417322834666 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+736.6535433070866929 553.433543307086552 Td
+(Avg Score) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 545.433543307086552 22.677165354330711 -44.4999999999999929 re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+62.6771653543307039 545.433543307086552 141.7322834645669332 -44.4999999999999929 re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+204.4094488188976584 545.433543307086552 226.7716535433071101 -44.4999999999999929 re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+431.1811023622047969 545.433543307086552 150.236220472440948 -44.4999999999999929 re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+581.4173228346456881 545.433543307086552 150.236220472440948 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+586.4173228346456881 531.933543307086552 Td
+(with more clarity and accuracy.) Tj
+T* () Tj
+T* (Score: 8) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+731.6535433070865793 545.433543307086552 70.8661417322834666 -44.4999999999999929 re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 500.933543307086552 22.677165354330711 -343.4999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 487.4335433070866088 Td
+(6) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+62.6771653543307039 500.933543307086552 141.7322834645669332 -343.4999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+67.677165354330711 487.4335433070866088 Td
+(What is the difference) Tj
+T* (between an object-oriented) Tj
+T* (programming language and) Tj
+T* (object-based programming) Tj
+T* (language?) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+204.4094488188976584 500.933543307086552 226.7716535433071101 -343.4999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+209.4094488188976584 487.4335433070866088 Td
+(Object oriented programming language is one) Tj
+T* (which is completely focused on programming) Tj
+T* (through creation of objects and passing the) Tj
+T* (values from one object to other and the whole) Tj
+T* (code is structured and wrapped inside one or) Tj
+T* (other or many object. Object is nothing but an) Tj
+T* (implementation of class which encapsulates the) Tj
+T* (state and behavior needed in our programming.) Tj
+T* (This is what object oriented programming or) Tj
+T* (OOPS concept is. Object oriented programming) Tj
+T* (is based on making classes which are like the) Tj
+T* (blueprints. The state and behavior are) Tj
+T* (encapsulated in class and object is an instance) Tj
+T* (of the class running. Object based programming) Tj
+T* (languages. Object based programming) Tj
+T* (languages are which mimic these kind of things) Tj
+T* (but not necessarily programs based upon only) Tj
+T* (objects.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+431.1811023622047969 500.933543307086552 150.236220472440948 -343.4999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+436.1811023622047969 487.4335433070866088 Td
+(The response provides a basic) Tj
+T* (understanding of the difference) Tj
+T* (between object-oriented) Tj
+T* (programming language and) Tj
+T* (object-based programming) Tj
+T* (language. The explanation is) Tj
+T* (clear but lacks depth and) Tj
+T* (precise technical details.) Tj
+T* () Tj
+T* (Score: 5) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+581.4173228346456881 500.933543307086552 150.236220472440948 -343.4999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+586.4173228346456881 487.4335433070866088 Td
+(The user provides a clear and) Tj
+T* (concise explanation of the) Tj
+T* (difference between) Tj
+T* (object-oriented programming) Tj
+T* (\(OOP\) and object-based) Tj
+T* (programming. They correctly) Tj
+T* (define OOP as being centered) Tj
+T* (around creating objects and) Tj
+T* (encapsulating state and) Tj
+T* (behavior within classes. The) Tj
+T* (user also accurately highlights) Tj
+T* (that OOP is based on making) Tj
+T* (classes, which are like) Tj
+T* (blueprints, and objects are) Tj
+T* (instances of these classes. The) Tj
+T* (explanation shows a good) Tj
+T* (understanding of the concepts) Tj
+T* (involved. However, the) Tj
+T* (response could be improved by) Tj
+T* (providing more specific) Tj
+T* (examples or concrete) Tj
+T* (differences between OOP and) Tj
+T* (object-based programming) Tj
+T* (languages. Additionally, some) Tj
+T* (technical details and precision) Tj
+T* (in terminology could have been) Tj
+T* (used to strengthen the answer.) Tj
+T* () Tj
+T* (Score: 8) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+731.6535433070865793 500.933543307086552 70.8661417322834666 -343.4999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+736.6535433070866929 487.4335433070866088 Td
+(7) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 157.4335433070866657 22.677165354330711 -113.4999999999999858 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 143.9335433070867225 Td
+(7) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+62.6771653543307039 157.4335433070866657 141.7322834645669332 -113.4999999999999858 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+67.677165354330711 143.9335433070867225 Td
+(Imagine a scenario where you) Tj
+T* (have a final variable declared) Tj
+T* (inside a method. Can this) Tj
+T* (variable be modified within) Tj
+T* (the same method? How does) Tj
+T* (this differ from a constant) Tj
+T* (declared with final outside a) Tj
+T* (method?) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+204.4094488188976584 157.4335433070866657 226.7716535433071101 -113.4999999999999858 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+209.4094488188976584 143.9335433070867225 Td
+(The final variable used inside a method can be) Tj
+T* (accessed within the same method but cannot be) Tj
+T* (updated and the constant variable irrespective of) Tj
+T* (the domain or range where it is declared is) Tj
+T* (constant throughout the whole entire) Tj
+T* (programming space) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+431.1811023622047969 157.4335433070866657 150.236220472440948 -113.4999999999999858 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+436.1811023622047969 143.9335433070867225 Td
+(The response provides a basic) Tj
+T* (understanding of the difference) Tj
+T* (between a final variable inside) Tj
+T* (a method and a constant) Tj
+T* (declared outside a method. The) Tj
+T* (explanation could benefit from) Tj
+T* (more clarity and depth in) Tj
+T* (distinguishing the two concepts.) Tj
+T* () Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+581.4173228346456881 157.4335433070866657 150.236220472440948 -113.4999999999999858 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+586.4173228346456881 143.9335433070867225 Td
+(The user correctly identifies that) Tj
+T* (a final variable inside a method) Tj
+T* (can be accessed but not) Tj
+T* (modified within the same) Tj
+T* (method. However, they) Tj
+T* (incorrectly state that the) Tj
+T* (constant variable is 'constant) Tj
+T* (throughout the whole entire) Tj
+T* (programming space', implying) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+731.6535433070865793 157.4335433070866657 70.8661417322834666 -113.4999999999999858 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+736.6535433070866929 143.9335433070867225 Td
+(7) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 28.3464566929134207 Td
+(Prashn Manch) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+318.6111417322834996 28.3464566929134207 Td
+(Interview taken on: 4/29/2024, 5:25:07 PM) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+720.0364566929133616 28.3464566929134207 Td
+(Page 4 of 10) Tj
+ET
+0.78 G
+0. w
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 841.8899999999999864 595.2799999999999727]
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 7321
+>>
+stream
+0. w
+0.78 G
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+40. 566.933543307086552 22.677165354330711 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 553.433543307086552 Td
+(#) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+62.6771653543307039 566.933543307086552 141.7322834645669332 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+67.677165354330711 553.433543307086552 Td
+(Question) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+204.4094488188976584 566.933543307086552 226.7716535433071101 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+209.4094488188976584 553.433543307086552 Td
+(Student Answer) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+431.1811023622047969 566.933543307086552 150.236220472440948 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+436.1811023622047969 553.433543307086552 Td
+(Evaluation Feedback 1) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+581.4173228346456881 566.933543307086552 150.236220472440948 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+586.4173228346456881 553.433543307086552 Td
+(Evaluation Feedback 2) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+731.6535433070865793 566.933543307086552 70.8661417322834666 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+736.6535433070866929 553.433543307086552 Td
+(Avg Score) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 545.433543307086552 22.677165354330711 -124.9999999999999858 re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+62.6771653543307039 545.433543307086552 141.7322834645669332 -124.9999999999999858 re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+204.4094488188976584 545.433543307086552 226.7716535433071101 -124.9999999999999858 re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+431.1811023622047969 545.433543307086552 150.236220472440948 -124.9999999999999858 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+436.1811023622047969 531.933543307086552 Td
+(Score: 6) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+581.4173228346456881 545.433543307086552 150.236220472440948 -124.9999999999999858 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+586.4173228346456881 531.933543307086552 Td
+(it's a global constant. In reality,) Tj
+T* (a constant declared with final) Tj
+T* (outside a method is still only) Tj
+T* (accessible within its own scope,) Tj
+T* (whereas a final variable inside) Tj
+T* (a method is essentially) Tj
+T* (immutable as the user correctly) Tj
+T* (stated.) Tj
+T* () Tj
+T* (Score: 7) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+731.6535433070865793 545.433543307086552 70.8661417322834666 -124.9999999999999858 re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 420.433543307086552 22.677165354330711 -354.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 406.9335433070866088 Td
+(8) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+62.6771653543307039 420.433543307086552 141.7322834645669332 -354.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+67.677165354330711 406.9335433070866088 Td
+(You have a static variable) Tj
+T* (inside a class. How can you) Tj
+T* (access this variable from) Tj
+T* (another class in the same) Tj
+T* (package or a different) Tj
+T* (package? Explain the access) Tj
+T* (control considerations for) Tj
+T* (each scenario.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+204.4094488188976584 420.433543307086552 226.7716535433071101 -354.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+209.4094488188976584 406.9335433070866088 Td
+(We can use protected method so that it can be) Tj
+T* (accessed within the same package by different) Tj
+T* (class or we can also use a public method which) Tj
+T* (can be accessed in different class of the same) Tj
+T* (package or a different package.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+431.1811023622047969 420.433543307086552 150.236220472440948 -354.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+436.1811023622047969 406.9335433070866088 Td
+(The response correctly) Tj
+T* (mentions using protected and) Tj
+T* (public methods to access a) Tj
+T* (static variable in different) Tj
+T* (classes and packages, but it) Tj
+T* (lacks specific details on the) Tj
+T* (access control considerations) Tj
+T* (for each scenario.) Tj
+T* () Tj
+T* (Score: 4) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+581.4173228346456881 420.433543307086552 150.236220472440948 -354.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+586.4173228346456881 406.9335433070866088 Td
+(The user's response correctly) Tj
+T* (identifies that protected and) Tj
+T* (public methods can be used to) Tj
+T* (access the static variable from) Tj
+T* (another class. However, it lacks) Tj
+T* (specific details on how exactly) Tj
+T* (these methods would be) Tj
+T* (implemented. Additionally, the) Tj
+T* (explanation does not fully) Tj
+T* (address the access control) Tj
+T* (considerations for each) Tj
+T* (scenario. For instance, in the) Tj
+T* (same package, access control) Tj
+T* (is not a concern as all classes) Tj
+T* (have access to protected) Tj
+T* (members. In a different) Tj
+T* (package, using a public method) Tj
+T* (would allow any class with an) Tj
+T* (import statement to access the) Tj
+T* (static variable, which may or) Tj
+T* (may not be desirable depending) Tj
+T* (on the context. Overall, the) Tj
+T* (response demonstrates a good) Tj
+T* (understanding of the general) Tj
+T* (principles but lacks specific) Tj
+T* (implementation details and) Tj
+T* (nuanced consideration of) Tj
+T* (access control.) Tj
+T* () Tj
+T* (Score: 6) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+731.6535433070865793 420.433543307086552 70.8661417322834666 -354.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+736.6535433070866929 406.9335433070866088 Td
+(6) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 65.4335433070865804 22.677165354330711 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 51.9335433070866657 Td
+(9) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+62.6771653543307039 65.4335433070865804 141.7322834645669332 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+67.677165354330711 51.9335433070866657 Td
+(What is the purpose of the) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+204.4094488188976584 65.4335433070865804 226.7716535433071101 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+209.4094488188976584 51.9335433070866657 Td
+(strict fp refers to strict protocol keyword in java) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+431.1811023622047969 65.4335433070865804 150.236220472440948 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+436.1811023622047969 51.9335433070866657 Td
+(The response contains) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+581.4173228346456881 65.4335433070865804 150.236220472440948 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+586.4173228346456881 51.9335433070866657 Td
+(The response attempts to) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+731.6535433070865793 65.4335433070865804 70.8661417322834666 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+736.6535433070866929 51.9335433070866657 Td
+(2) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 28.3464566929134207 Td
+(Prashn Manch) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+318.6111417322834996 28.3464566929134207 Td
+(Interview taken on: 4/29/2024, 5:25:07 PM) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+720.0364566929133616 28.3464566929134207 Td
+(Page 5 of 10) Tj
+ET
+0.78 G
+0. w
+endstream
+endobj
+13 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 841.8899999999999864 595.2799999999999727]
+/Contents 14 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 7883
+>>
+stream
+0. w
+0.78 G
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+40. 566.933543307086552 22.677165354330711 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 553.433543307086552 Td
+(#) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+62.6771653543307039 566.933543307086552 141.7322834645669332 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+67.677165354330711 553.433543307086552 Td
+(Question) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+204.4094488188976584 566.933543307086552 226.7716535433071101 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+209.4094488188976584 553.433543307086552 Td
+(Student Answer) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+431.1811023622047969 566.933543307086552 150.236220472440948 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+436.1811023622047969 553.433543307086552 Td
+(Evaluation Feedback 1) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+581.4173228346456881 566.933543307086552 150.236220472440948 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+586.4173228346456881 553.433543307086552 Td
+(Evaluation Feedback 2) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+731.6535433070865793 566.933543307086552 70.8661417322834666 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+736.6535433070866929 553.433543307086552 Td
+(Avg Score) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 545.433543307086552 22.677165354330711 -193.9999999999999716 re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+62.6771653543307039 545.433543307086552 141.7322834645669332 -193.9999999999999716 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+67.677165354330711 531.933543307086552 Td
+(strictfp keyword in Java?) Tj
+T* (When would you use it?) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+204.4094488188976584 545.433543307086552 226.7716535433071101 -193.9999999999999716 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+209.4094488188976584 531.933543307086552 Td
+(this would be used so that to indicate the user to) Tj
+T* (not change the declared variable on method as it) Tj
+T* (is volatile) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+431.1811023622047969 545.433543307086552 150.236220472440948 -193.9999999999999716 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+436.1811023622047969 531.933543307086552 Td
+(inaccuracies and) Tj
+T* (misunderstandings about the) Tj
+T* (purpose of the strictfp keyword) Tj
+T* (in Java. It lacks clarity and) Tj
+T* (depth in explaining its actual) Tj
+T* (usage in ensuring consistent) Tj
+T* (floating-point calculations) Tj
+T* (across different platforms.) Tj
+T* () Tj
+T* (Score: 2) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+581.4173228346456881 545.433543307086552 150.236220472440948 -193.9999999999999716 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+586.4173228346456881 531.933543307086552 Td
+(address the question but is) Tj
+T* (incomplete and contains errors.) Tj
+T* (The user refers to 'strict fp' as) Tj
+T* ('strict protocol keyword', which) Tj
+T* (is not accurate. Additionally,) Tj
+T* (their explanation of the purpose) Tj
+T* (of the strictfp keyword is) Tj
+T* (unclear and does not accurately) Tj
+T* (convey its meaning. The user) Tj
+T* (also mentions that it would be) Tj
+T* (used to prevent changes to a) Tj
+T* (volatile variable, which is not) Tj
+T* (the correct usage of the strictfp) Tj
+T* (keyword.) Tj
+T* () Tj
+T* (Score: 2) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+731.6535433070865793 545.433543307086552 70.8661417322834666 -193.9999999999999716 re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 351.4335433070866088 22.677165354330711 -308.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 337.9335433070866657 Td
+(10) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+62.6771653543307039 351.4335433070866088 141.7322834645669332 -308.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+67.677165354330711 337.9335433070866657 Td
+(How does Java achieve) Tj
+T* (polymorphism? Explain with a) Tj
+T* (satisfactory example.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+204.4094488188976584 351.4335433070866088 226.7716535433071101 -308.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+209.4094488188976584 337.9335433070866657 Td
+(Polymorphism is when a message or a sentence) Tj
+T* (can exist in multiple forms. An object or a method) Tj
+T* (can exist in multiple forms that invoked or used in) Tj
+T* (multiple forms. Example, take an case of the) Tj
+T* (function int sum. There can be different instances) Tj
+T* (of this single function called int sum being used.) Tj
+T* (Sum, which is the function, and int is which is the) Tj
+T* (return type. It can take, suppose, two variables,) Tj
+T* (int a and int b in one instance and return sum of) Tj
+T* (a and b, that is, return a plus b. In another) Tj
+T* (instance, it can take int a, int b, int c as its) Tj
+T* (parameter and return a plus b plus c. In another) Tj
+T* (instance, it can take parameters like int a and) Tj
+T* (double b and int a is parsed to double as double) Tj
+T* (d a and it can return d a plus b. And. The return) Tj
+T* (type would be double. So these are different) Tj
+T* (return types and parameters which are being) Tj
+T* (overloaded in a single function called sum. And) Tj
+T* (based upon the type of invocation, which) Tj
+T* (parameters decides what type of instance of the) Tj
+T* (function sum is called. This is an example of) Tj
+T* (polymorphism. There is runtime polymorphism) Tj
+T* (and this compile time polymorphism in the) Tj
+T* (examples I've given you.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+431.1811023622047969 351.4335433070866088 150.236220472440948 -308.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+436.1811023622047969 337.9335433070866657 Td
+(The response provides a) Tj
+T* (satisfactory explanation of) Tj
+T* (polymorphism with an example) Tj
+T* (related to a function named) Tj
+T* ('sum.' It covers method) Tj
+T* (overloading and different) Tj
+T* (parameter combinations well.) Tj
+T* (Some technical inaccuracies) Tj
+T* (exist in the explanation like) Tj
+T* (mentioning 'parsed to double as) Tj
+T* (double d a' is not correct.) Tj
+T* (Additionally, the distinction) Tj
+T* (between compile-time and) Tj
+T* (runtime polymorphism could) Tj
+T* (have been clearer and better) Tj
+T* (elaborated.) Tj
+T* () Tj
+T* (Score: 7) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+581.4173228346456881 351.4335433070866088 150.236220472440948 -308.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+586.4173228346456881 337.9335433070866657 Td
+(The user's response) Tj
+T* (demonstrates a good) Tj
+T* (understanding of) Tj
+T* (polymorphism, but there are) Tj
+T* (some issues that prevent it from) Tj
+T* (being perfect. The explanation) Tj
+T* (is clear and concise, and the) Tj
+T* (user provides a satisfactory) Tj
+T* (example with multiple instances) Tj
+T* (of the `sum` function. However,) Tj
+T* (the user seems to be mixing up) Tj
+T* (compile-time polymorphism) Tj
+T* (\(method overloading\) with) Tj
+T* (runtime polymorphism \(method) Tj
+T* (overriding\). They also use) Tj
+T* (vague terms like 'different) Tj
+T* (forms' and 'multiple forms' that) Tj
+T* (don't accurately convey the) Tj
+T* (concept of polymorphism.) Tj
+T* (Additionally, some sentences) Tj
+T* (are hard to understand due to) Tj
+T* (poor grammar and sentence) Tj
+T* (structure. Overall, the response) Tj
+T* (is good but not excellent.) Tj
+T* () Tj
+T* (Score: 8) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+731.6535433070865793 351.4335433070866088 70.8661417322834666 -308.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+736.6535433070866929 337.9335433070866657 Td
+(8) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 28.3464566929134207 Td
+(Prashn Manch) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+318.6111417322834996 28.3464566929134207 Td
+(Interview taken on: 4/29/2024, 5:25:07 PM) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+720.0364566929133616 28.3464566929134207 Td
+(Page 6 of 10) Tj
+ET
+0.78 G
+0. w
+endstream
+endobj
+15 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 841.8899999999999864 595.2799999999999727]
+/Contents 16 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 7476
+>>
+stream
+0. w
+0.78 G
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+40. 566.933543307086552 22.677165354330711 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 553.433543307086552 Td
+(#) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+62.6771653543307039 566.933543307086552 141.7322834645669332 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+67.677165354330711 553.433543307086552 Td
+(Question) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+204.4094488188976584 566.933543307086552 226.7716535433071101 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+209.4094488188976584 553.433543307086552 Td
+(Student Answer) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+431.1811023622047969 566.933543307086552 150.236220472440948 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+436.1811023622047969 553.433543307086552 Td
+(Evaluation Feedback 1) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+581.4173228346456881 566.933543307086552 150.236220472440948 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+586.4173228346456881 553.433543307086552 Td
+(Evaluation Feedback 2) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+731.6535433070865793 566.933543307086552 70.8661417322834666 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+736.6535433070866929 553.433543307086552 Td
+(Avg Score) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 545.433543307086552 22.677165354330711 -251.4999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 531.933543307086552 Td
+(11) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+62.6771653543307039 545.433543307086552 141.7322834645669332 -251.4999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+67.677165354330711 531.933543307086552 Td
+(What will happen when you) Tj
+T* (mark instance variables as) Tj
+T* (native?) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+204.4094488188976584 545.433543307086552 226.7716535433071101 -251.4999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+209.4094488188976584 531.933543307086552 Td
+(Then instance variables are marked as native.) Tj
+T* (This scope is limited only to the variable or the) Tj
+T* (block space it is declared. It cannot be accessed) Tj
+T* (away from that.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+431.1811023622047969 545.433543307086552 150.236220472440948 -251.4999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+436.1811023622047969 531.933543307086552 Td
+(The response provides some) Tj
+T* (insight into marking instance) Tj
+T* (variables as native, but lacks) Tj
+T* (clarity and depth. It would) Tj
+T* (benefit from a more detailed) Tj
+T* (explanation of what marking) Tj
+T* (variables as native means in) Tj
+T* (Java, as well as how it differs) Tj
+T* (from other variable) Tj
+T* (declarations.) Tj
+T* () Tj
+T* (Score: 4) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+581.4173228346456881 545.433543307086552 150.236220472440948 -251.4999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+586.4173228346456881 531.933543307086552 Td
+(The user's response accurately) Tj
+T* (conveys the basic idea of what) Tj
+T* (happens when instance) Tj
+T* (variables are marked as native.) Tj
+T* (They correctly state that the) Tj
+T* (scope is limited to the variable) Tj
+T* (or block space it is declared in,) Tj
+T* (and that it cannot be accessed) Tj
+T* (away from that. However, the) Tj
+T* (response lacks some technical) Tj
+T* (details and depth of) Tj
+T* (understanding. For example,) Tj
+T* (they don't mention how this) Tj
+T* (affects memory management,) Tj
+T* (garbage collection, or any) Tj
+T* (specific programming) Tj
+T* (language's implementation. But) Tj
+T* (overall, the user demonstrates) Tj
+T* (a good grasp of the concept.) Tj
+T* () Tj
+T* (Score: 8) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+731.6535433070865793 545.433543307086552 70.8661417322834666 -251.4999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+736.6535433070866929 531.933543307086552 Td
+(6) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 293.9335433070866088 22.677165354330711 -251.4999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 280.4335433070866088 Td
+(12) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+62.6771653543307039 293.9335433070866088 141.7322834645669332 -251.4999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+67.677165354330711 280.4335433070866088 Td
+(A class has a constructor with) Tj
+T* (private access. Is it possible) Tj
+T* (to create an object of that) Tj
+T* (class? If not, how can you) Tj
+T* (achieve restricted object) Tj
+T* (creation while still allowing) Tj
+T* (controlled access to the class) Tj
+T* (functionalities?) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+204.4094488188976584 293.9335433070866088 226.7716535433071101 -251.4999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+209.4094488188976584 280.4335433070866088 Td
+(class constructor with private access can only) Tj
+T* (create an object within the same class) Tj
+T* (declaration and cannot be accessed away in a) Tj
+T* (different class it's only limited to the class it is) Tj
+T* (declared so the constructor has to be within the) Tj
+T* (same class class code it is being implemented to) Tj
+T* (achieve restricted object creation and still) Tj
+T* (allowing controlled access to the class) Tj
+T* (functionalities can be done using public acts or) Tj
+T* (no protected a keyword protected access) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+431.1811023622047969 293.9335433070866088 150.236220472440948 -251.4999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+436.1811023622047969 280.4335433070866088 Td
+(The response addresses the) Tj
+T* (concept of private constructors) Tj
+T* (and mentions restricted object) Tj
+T* (creation, but the explanation) Tj
+T* (lacks clarity and has some) Tj
+T* (grammatical errors. The) Tj
+T* (mention of using public or) Tj
+T* (protected access for achieving) Tj
+T* (controlled access is somewhat) Tj
+T* (relevant but could be explained) Tj
+T* (more clearly.) Tj
+T* () Tj
+T* (Score: 4) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+581.4173228346456881 293.9335433070866088 150.236220472440948 -251.4999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+586.4173228346456881 280.4335433070866088 Td
+(The user's response is mostly) Tj
+T* (accurate, but lacks clarity and) Tj
+T* (organization. They correctly) Tj
+T* (identify that the private) Tj
+T* (constructor can only be) Tj
+T* (accessed within the same class) Tj
+T* (declaration, which limits object) Tj
+T* (creation to within that class.) Tj
+T* (However, their explanation is) Tj
+T* (convoluted and uses) Tj
+T* (ambiguous terms like 'class) Tj
+T* (code' and 'acts'. Additionally,) Tj
+T* (they mention using public or) Tj
+T* (protected access, but don't) Tj
+T* (provide a clear example of how) Tj
+T* (this would achieve restricted) Tj
+T* (object creation. Overall, while) Tj
+T* (the user's response is generally) Tj
+T* (correct, it could be improved) Tj
+T* (with clearer language and more) Tj
+T* (concrete examples.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+731.6535433070865793 293.9335433070866088 70.8661417322834666 -251.4999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+736.6535433070866929 280.4335433070866088 Td
+(6) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 28.3464566929134207 Td
+(Prashn Manch) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+318.6111417322834996 28.3464566929134207 Td
+(Interview taken on: 4/29/2024, 5:25:07 PM) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+720.0364566929133616 28.3464566929134207 Td
+(Page 7 of 10) Tj
+ET
+0.78 G
+0. w
+endstream
+endobj
+17 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 841.8899999999999864 595.2799999999999727]
+/Contents 18 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 8816
+>>
+stream
+0. w
+0.78 G
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+40. 566.933543307086552 22.677165354330711 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 553.433543307086552 Td
+(#) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+62.6771653543307039 566.933543307086552 141.7322834645669332 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+67.677165354330711 553.433543307086552 Td
+(Question) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+204.4094488188976584 566.933543307086552 226.7716535433071101 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+209.4094488188976584 553.433543307086552 Td
+(Student Answer) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+431.1811023622047969 566.933543307086552 150.236220472440948 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+436.1811023622047969 553.433543307086552 Td
+(Evaluation Feedback 1) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+581.4173228346456881 566.933543307086552 150.236220472440948 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+586.4173228346456881 553.433543307086552 Td
+(Evaluation Feedback 2) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+731.6535433070865793 566.933543307086552 70.8661417322834666 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+736.6535433070866929 553.433543307086552 Td
+(Avg Score) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 545.433543307086552 22.677165354330711 -32.9999999999999929 re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+62.6771653543307039 545.433543307086552 141.7322834645669332 -32.9999999999999929 re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+204.4094488188976584 545.433543307086552 226.7716535433071101 -32.9999999999999929 re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+431.1811023622047969 545.433543307086552 150.236220472440948 -32.9999999999999929 re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+581.4173228346456881 545.433543307086552 150.236220472440948 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+586.4173228346456881 531.933543307086552 Td
+() Tj
+T* (Score: 6) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+731.6535433070865793 545.433543307086552 70.8661417322834666 -32.9999999999999929 re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 512.433543307086552 22.677165354330711 -285.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 498.933543307086552 Td
+(13) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+62.6771653543307039 512.433543307086552 141.7322834645669332 -285.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+67.677165354330711 498.933543307086552 Td
+(Explain the difference) Tj
+T* (between a shallow copy and) Tj
+T* (a deep copy of an object in) Tj
+T* (Java. How would you create) Tj
+T* (each type of copy?) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+204.4094488188976584 512.433543307086552 226.7716535433071101 -285.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+209.4094488188976584 498.933543307086552 Td
+(shallow copy refers only to a simple shallow copy) Tj
+T* (refers to only a simple value of the object or the) Tj
+T* (variable that is passed and a deep copy is a copy) Tj
+T* (that is not only affecting the value which is) Tj
+T* (passed but also the reference to the variable the) Tj
+T* (original address space which is being passed this) Tj
+T* (is known as a deep copy shallow copy basically) Tj
+T* (is copy by value and deep copy we can say to) Tj
+T* (some extent is similar to copy by a reference) Tj
+T* (where the original object or the original variable) Tj
+T* (which is being passed is also changed outside) Tj
+T* (the function call when shallow copy only refers to) Tj
+T* (just the superficial value and the value has to be) Tj
+T* (returned and the original address space of the) Tj
+T* (variable cannot be changed this is shallow copy) Tj
+T* (in general Java operates on copy by value if we) Tj
+T* (need a deep copy of an object we can use the) Tj
+T* (static keyword) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+431.1811023622047969 512.433543307086552 150.236220472440948 -285.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+436.1811023622047969 498.933543307086552 Td
+(The response contains some) Tj
+T* (relevant information about) Tj
+T* (shallow copy and deep copy,) Tj
+T* (but it is quite confusing and) Tj
+T* (lacks clarity. The explanation) Tj
+T* (could be more precise and) Tj
+T* (structured to showcase a better) Tj
+T* (understanding of the topic.) Tj
+T* () Tj
+T* (Score: 2) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+581.4173228346456881 512.433543307086552 150.236220472440948 -285.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+586.4173228346456881 498.933543307086552 Td
+(The user's response) Tj
+T* (demonstrates a good) Tj
+T* (understanding of shallow and) Tj
+T* (deep copies in Java. They) Tj
+T* (correctly explain that a shallow) Tj
+T* (copy refers to copying the value) Tj
+T* (of an object or variable,) Tj
+T* (whereas a deep copy involves) Tj
+T* (copying both the value and the) Tj
+T* (reference to the original) Tj
+T* (address space. The user also) Tj
+T* (provides a clear distinction) Tj
+T* (between the two concepts,) Tj
+T* (noting that shallow copies are) Tj
+T* ('copy by value' while deep) Tj
+T* (copies can be thought of as) Tj
+T* ('copy by reference'. However,) Tj
+T* (the response could be) Tj
+T* (improved with more specific) Tj
+T* (examples or code snippets) Tj
+T* (demonstrating how to create) Tj
+T* (each type of copy in Java.) Tj
+T* () Tj
+T* (Score: 8) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+731.6535433070865793 512.433543307086552 70.8661417322834666 -285.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+736.6535433070866929 498.933543307086552 Td
+(6) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 226.4335433070865804 22.677165354330711 -182.4999999999999716 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 212.9335433070866657 Td
+(14) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+62.6771653543307039 226.4335433070865804 141.7322834645669332 -182.4999999999999716 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+67.677165354330711 212.9335433070866657 Td
+(A process is stuck in a wait) Tj
+T* (state due to I/O. How can the) Tj
+T* (operating system utilize the) Tj
+T* (CPU efficiently while waiting) Tj
+T* (for the I/O operation to) Tj
+T* (complete?) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+204.4094488188976584 226.4335433070865804 226.7716535433071101 -182.4999999999999716 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+209.4094488188976584 212.9335433070866657 Td
+(Another sub-process of the process which) Tj
+T* (doesn't depend upon the input-output operations) Tj
+T* (can be executed and if it is dependent upon the) Tj
+T* (other function to be completed, it has to wait. We) Tj
+T* (can use asynchronous function for this purpose.) Tj
+T* (All other sub-processes which are not directly) Tj
+T* (linked to input-output operations to be used using) Tj
+T* (scheduling algorithms so that effective CPU) Tj
+T* (efficiency is utilized.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+431.1811023622047969 226.4335433070865804 150.236220472440948 -182.4999999999999716 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+436.1811023622047969 212.9335433070866657 Td
+(The response provides a clear) Tj
+T* (and relevant explanation of) Tj
+T* (utilizing other sub-processes) Tj
+T* (and asynchronous functions to) Tj
+T* (improve CPU efficiency while) Tj
+T* (waiting for I/O operations. It) Tj
+T* (also mentions using scheduling) Tj
+T* (algorithms for effective CPU) Tj
+T* (utilization. The explanation) Tj
+T* (shows a good understanding of) Tj
+T* (the topic.) Tj
+T* () Tj
+T* (Score: 7) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+581.4173228346456881 226.4335433070865804 150.236220472440948 -182.4999999999999716 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+586.4173228346456881 212.9335433070866657 Td
+(The user's response) Tj
+T* (demonstrates a good) Tj
+T* (understanding of the concept.) Tj
+T* (They correctly identify the idea) Tj
+T* (of utilizing the CPU while) Tj
+T* (waiting for I/O operations to) Tj
+T* (complete by executing other) Tj
+T* (sub-processes that are not) Tj
+T* (dependent on the I/O operation.) Tj
+T* (The mention of asynchronous) Tj
+T* (functions and scheduling) Tj
+T* (algorithms is also relevant to) Tj
+T* (this problem, showing that they) Tj
+T* (have considered different) Tj
+T* (approaches to improve CPU) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+731.6535433070865793 226.4335433070865804 70.8661417322834666 -182.4999999999999716 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+736.6535433070866929 212.9335433070866657 Td
+(8) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 28.3464566929134207 Td
+(Prashn Manch) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+318.6111417322834996 28.3464566929134207 Td
+(Interview taken on: 4/29/2024, 5:25:07 PM) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+720.0364566929133616 28.3464566929134207 Td
+(Page 8 of 10) Tj
+ET
+0.78 G
+0. w
+endstream
+endobj
+19 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 841.8899999999999864 595.2799999999999727]
+/Contents 20 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 6987
+>>
+stream
+0. w
+0.78 G
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+40. 566.933543307086552 22.677165354330711 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 553.433543307086552 Td
+(#) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+62.6771653543307039 566.933543307086552 141.7322834645669332 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+67.677165354330711 553.433543307086552 Td
+(Question) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+204.4094488188976584 566.933543307086552 226.7716535433071101 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+209.4094488188976584 553.433543307086552 Td
+(Student Answer) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+431.1811023622047969 566.933543307086552 150.236220472440948 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+436.1811023622047969 553.433543307086552 Td
+(Evaluation Feedback 1) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+581.4173228346456881 566.933543307086552 150.236220472440948 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+586.4173228346456881 553.433543307086552 Td
+(Evaluation Feedback 2) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+731.6535433070865793 566.933543307086552 70.8661417322834666 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+736.6535433070866929 553.433543307086552 Td
+(Avg Score) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 545.433543307086552 22.677165354330711 -102. re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+62.6771653543307039 545.433543307086552 141.7322834645669332 -102. re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+204.4094488188976584 545.433543307086552 226.7716535433071101 -102. re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+431.1811023622047969 545.433543307086552 150.236220472440948 -102. re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+581.4173228346456881 545.433543307086552 150.236220472440948 -102. re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+586.4173228346456881 531.933543307086552 Td
+(efficiency. However, the) Tj
+T* (response could be improved by) Tj
+T* (providing more specific details) Tj
+T* (about how these concepts) Tj
+T* (would be implemented in) Tj
+T* (practice.) Tj
+T* () Tj
+T* (Score: 8) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+731.6535433070865793 545.433543307086552 70.8661417322834666 -102. re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 443.4335433070866088 22.677165354330711 -400.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 429.9335433070866088 Td
+(15) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+62.6771653543307039 443.4335433070866088 141.7322834645669332 -400.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+67.677165354330711 429.9335433070866088 Td
+(How does a process) Tj
+T* (transition between different) Tj
+T* (states?) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+204.4094488188976584 443.4335433070866088 226.7716535433071101 -400.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+209.4094488188976584 429.9335433070866088 Td
+(there are five different states new and runnable) Tj
+T* (running blocked and terminate new is when the) Tj
+T* (process is generated and it is not being in) Tj
+T* (execution runnable when it it has all the) Tj
+T* (resources and is just waiting for the scheduling of) Tj
+T* (the cpu to run running is the present process in) Tj
+T* (execution program in execution which is called) Tj
+T* (the running process blocker is when uh it has to) Tj
+T* (wait uh uh for a certain other dependent function) Tj
+T* (or process to complete so that proper resource) Tj
+T* (allocation can be done and no deadlock is met) Tj
+T* (and termination is the final state when the) Tj
+T* (process is programs completed and the process) Tj
+T* (is terminated the transition happens in the) Tj
+T* (following way when the code or the program) Tj
+T* (needs a particular process the particular process) Tj
+T* (is created and this is in the newer state the) Tj
+T* (runnable state is when all the all the resources it) Tj
+T* (needs are allocated and free and only it needs to) Tj
+T* (wait for the correct instance when scheduling of) Tj
+T* (cpu is invoked on it and it it's scheduling) Tj
+T* (algorithm meets its invoking time uh and when) Tj
+T* (scheduling algorithm hits uh and the program is) Tj
+T* (being executed it is called running and when due) Tj
+T* (to some constraints or some resources or some) Tj
+T* (other dependent method or process being) Tj
+T* (completed is required then the process waits that) Tj
+T* (is being blocked till the particular sub function of) Tj
+T* (sub process is completed or dependent process) Tj
+T* (is completed and the resources or the result of) Tj
+T* (the another process is returned which can be) Tj
+T* (used for the block blocker function to run again) Tj
+T* (and when it meets its purpose then the program) Tj
+T* (is terminated or the terminal is terminated and) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+431.1811023622047969 443.4335433070866088 150.236220472440948 -400.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+436.1811023622047969 429.9335433070866088 Td
+(The response covers the) Tj
+T* (different states of a process) Tj
+T* (and how they transition, but it) Tj
+T* (lacks clarity and organization.) Tj
+T* (The explanation is somewhat) Tj
+T* (convoluted and could benefit) Tj
+T* (from a clearer structure and) Tj
+T* (more concise description of) Tj
+T* (each state and transition.) Tj
+T* () Tj
+T* (Score: 4) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+581.4173228346456881 443.4335433070866088 150.236220472440948 -400.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+586.4173228346456881 429.9335433070866088 Td
+(The user's response) Tj
+T* (demonstrates a good) Tj
+T* (understanding of the different) Tj
+T* (states a process can be in) Tj
+T* (\(new, runnable, running,) Tj
+T* (blocked, and terminated\). They) Tj
+T* (are able to describe the) Tj
+T* (characteristics of each state,) Tj
+T* (including what happens during) Tj
+T* (the transition between them.) Tj
+T* (The answer is clear and easy to) Tj
+T* (follow, with minimal technical) Tj
+T* (jargon. While there are some) Tj
+T* (minor errors in grammar and) Tj
+T* (punctuation, they do not detract) Tj
+T* (from the overall quality of the) Tj
+T* (response. The user's ability to) Tj
+T* (explain the transitions between) Tj
+T* (states, such as from new to) Tj
+T* (runnable or blocked back to) Tj
+T* (running, also shows a strong) Tj
+T* (understanding of the topic.) Tj
+T* () Tj
+T* (Score: 8) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+731.6535433070865793 443.4335433070866088 70.8661417322834666 -400.9999999999999432 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+736.6535433070866929 429.9335433070866088 Td
+(7) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 28.3464566929134207 Td
+(Prashn Manch) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+318.6111417322834996 28.3464566929134207 Td
+(Interview taken on: 4/29/2024, 5:25:07 PM) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+720.0364566929133616 28.3464566929134207 Td
+(Page 9 of 10) Tj
+ET
+0.78 G
+0. w
+endstream
+endobj
+21 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 841.8899999999999864 595.2799999999999727]
+/Contents 22 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 2615
+>>
+stream
+0. w
+0.78 G
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+40. 566.933543307086552 22.677165354330711 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 553.433543307086552 Td
+(#) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+62.6771653543307039 566.933543307086552 141.7322834645669332 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+67.677165354330711 553.433543307086552 Td
+(Question) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+204.4094488188976584 566.933543307086552 226.7716535433071101 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+209.4094488188976584 553.433543307086552 Td
+(Student Answer) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+431.1811023622047969 566.933543307086552 150.236220472440948 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+436.1811023622047969 553.433543307086552 Td
+(Evaluation Feedback 1) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+581.4173228346456881 566.933543307086552 150.236220472440948 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+586.4173228346456881 553.433543307086552 Td
+(Evaluation Feedback 2) Tj
+ET
+0.1 0.74 0.61 rg
+0.78 G
+0. w
+0.1 0.74 0.61 rg
+731.6535433070865793 566.933543307086552 70.8661417322834666 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+736.6535433070866929 553.433543307086552 Td
+(Avg Score) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 545.433543307086552 22.677165354330711 -32.9999999999999929 re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+62.6771653543307039 545.433543307086552 141.7322834645669332 -32.9999999999999929 re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+204.4094488188976584 545.433543307086552 226.7716535433071101 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+209.4094488188976584 531.933543307086552 Td
+(the process is terminated state of the process is) Tj
+T* (met) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+431.1811023622047969 545.433543307086552 150.236220472440948 -32.9999999999999929 re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+581.4173228346456881 545.433543307086552 150.236220472440948 -32.9999999999999929 re
+B
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+731.6535433070865793 545.433543307086552 70.8661417322834666 -32.9999999999999929 re
+B
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 28.3464566929134207 Td
+(Prashn Manch) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+318.6111417322834996 28.3464566929134207 Td
+(Interview taken on: 4/29/2024, 5:25:07 PM) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0. g
+715.0364566929133616 28.3464566929134207 Td
+(Page 10 of 10) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R ]
+/Count 10
+>>
+endobj
+23 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+24 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+25 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+26 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+27 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+28 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+29 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+30 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+31 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+32 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+33 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+34 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+35 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+36 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 23 0 R
+/F2 24 0 R
+/F3 25 0 R
+/F4 26 0 R
+/F5 27 0 R
+/F6 28 0 R
+/F7 29 0 R
+/F8 30 0 R
+/F9 31 0 R
+/F10 32 0 R
+/F11 33 0 R
+/F12 34 0 R
+/F13 35 0 R
+/F14 36 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+37 0 obj
+<<
+/Producer (jsPDF 2.5.1)
+/CreationDate (D:20240503222857+05'30')
+>>
+endobj
+38 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 39
+0000000000 65535 f 
+0000073675 00000 n 
+0000075558 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000008176 00000 n 
+0000008313 00000 n 
+0000015581 00000 n 
+0000015718 00000 n 
+0000022725 00000 n 
+0000022863 00000 n 
+0000031425 00000 n 
+0000031564 00000 n 
+0000038938 00000 n 
+0000039077 00000 n 
+0000047013 00000 n 
+0000047152 00000 n 
+0000054681 00000 n 
+0000054820 00000 n 
+0000063689 00000 n 
+0000063828 00000 n 
+0000070868 00000 n 
+0000071007 00000 n 
+0000073793 00000 n 
+0000073919 00000 n 
+0000074050 00000 n 
+0000074184 00000 n 
+0000074322 00000 n 
+0000074446 00000 n 
+0000074575 00000 n 
+0000074707 00000 n 
+0000074843 00000 n 
+0000074971 00000 n 
+0000075098 00000 n 
+0000075227 00000 n 
+0000075360 00000 n 
+0000075462 00000 n 
+0000075811 00000 n 
+0000075897 00000 n 
+trailer
+<<
+/Size 39
+/Root 38 0 R
+/Info 37 0 R
+/ID [ <73410B95DCFB7AFB91B0352F7A1E512E> <73410B95DCFB7AFB91B0352F7A1E512E> ]
+>>
+startxref
+76001
+%%EOF
